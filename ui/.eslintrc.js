@@ -20,5 +20,7 @@ module.exports = {
     'import/named': 'off',
     'import/no-unresolved': 'off',
     'import/extensions': 'off',
+    '@typescript-eslint/ban-ts-comment': 'off',
+    '@typescript-eslint/no-empty-function': 'off',
   },
 };
